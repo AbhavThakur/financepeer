@@ -1,2 +1,2 @@
-# Sonar-App
-### For helpig college students to find teachers.
+# financepeer-App
+### For helpigto to disply json.
